@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.PerfilUsuario" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/roxo</item>
+        <item name="colorPrimary">@color/roxo</item>
+        <item name="android:statusBarColor">@color/roxo</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Perfil do Usuário</string>
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="sair">Sair</string>
+    <string name="login_sucesso">Login realizado com sucesso!</string>
+    <string name="login_erro">Não foi possível entrar. Tente novamente.</string>
+    <string name="logout_erro">Não foi possível sair.</string>
+    <string name="email_nao_disponivel">Usuário conectado</string>
+</resources>
